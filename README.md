@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔝 Top Contributed Repo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalajiKammilla&show_icons=true&theme=dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BalajiKammilla&theme=react)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=BalajiKammilla&color=blue)
