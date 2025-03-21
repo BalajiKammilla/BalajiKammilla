@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiKammilla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalajiKammilla&show_icons=true&theme=dark)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=BalajiKammilla&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BalajiKammilla&theme=react)
 
 ---
