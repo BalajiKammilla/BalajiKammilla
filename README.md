@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
    I am Balaji Kammilla, a passionate learner who thrives on exploring new and exciting technologies. With a strong foundation in *Java, Kotlin* and *SQL*, I have a keen interest in software development. I enjoy solving complex problems and continuously enhancing my skill set. Open to collaboration on innovative projects, I am eager to contribute and grow in a dynamic environment.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bones_breaker_balu)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balajikammilla@gmail.com) 
 
