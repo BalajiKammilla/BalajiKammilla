@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bones_breaker_balu)
+[![LinkedIn](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/bones_breaker_balu](https://www.linkedin.com/in/balaji-kammilla-80326126b/))
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balajikammilla@gmail.com) 
 
 # 💻 Tech Stack:
